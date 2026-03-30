@@ -34,6 +34,8 @@ Email: pheerapat.p@kkumail.com
 | Group Work | Sprint Alpha + 1 | [View Folder](https://drive.google.com/drive/folders/1RNb3fNuazOp9FIMRaPIueUZsnFSwW3Sx?usp=sharing) |
 | Final Project | Artifacts | [View Folder](https://drive.google.com/drive/folders/1i_OhlgE11zJG3P4IjCNy8UzWbME6L5KD?usp=sharing) |
 
+## Network Week 1-10 Result
+[Result](https://docs.google.com/document/d/1x-jXsM5x4B9O7zxh8ZWRBgVDep_TIzUOOB_vjvZPei0/edit?usp=sharing)
 
 ## Group Activities
 
@@ -55,10 +57,3 @@ Email: pheerapat.p@kkumail.com
 
 ## Checkpoint Exam
 <img width="1781" height="626" alt="image" src="https://github.com/user-attachments/assets/48d6d00a-0003-458b-ae97-4b7e9fdb5e2f" />
-
-
----
-
-## หมายเหตุเพิ่มเติม
-- สามารถดูรายละเอียดของแต่ละสัปดาห์ในโฟลเดอร์ `Week1-10` ซึ่งแต่ละสัปดาห์จะมี README แยกของตัวเอง
-- หากต้องการดูรายละเอียดเพิ่มเติม สามารถเข้าไปที่ README ของแต่ละโฟลเดอร์
