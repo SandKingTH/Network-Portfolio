@@ -51,10 +51,10 @@ Email: pheerapat.p@kkumail.com
 | Disaster Warning System | [Github](https://github.com/kixmbap/Disater-Waining-DEMO) |
 
 ## Certificate
-<img width="872" height="587" alt="image" src="https://github.com/user-attachments/assets/3ce01748-dedf-4c0e-862e-f4a79e012cf9" />
+<img width="1221" height="824" alt="image" src="https://github.com/user-attachments/assets/f44b68c9-4a4a-4e27-8949-42f6616410d4" />
 
 ## Checkpoint Exam
-<img width="1904" height="524" alt="image" src="https://github.com/user-attachments/assets/b04ef2d4-335e-4591-bd22-0c3ca951c967" />
+<img width="1781" height="626" alt="image" src="https://github.com/user-attachments/assets/48d6d00a-0003-458b-ae97-4b7e9fdb5e2f" />
 
 
 ---
